@@ -1,7 +1,23 @@
 {
   "name": "vue-mzc-price",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Vue2 price component",
+  "author": "Max Zhurkin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximzhurkin/vue-mzc-price.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maximzhurkin/vue-mzc-price/issues"
+  },
+  "homepage": "https://github.com/maximzhurkin/vue-mzc-price#readme",
+  "keywords": [
+    "vuejs",
+    "vue",
+    "vuejs2",
+    "price"
+  ],
 
   "main": "dist/vue-mzc-price.ssr.js",
   "browser": "dist/vue-mzc-price.esm.js",
@@ -10,7 +26,8 @@
 
   "files": [
     "dist/*",
-    "src/**/*.vue"
+    "src/**/*.vue",
+    "src/**/*.css"
   ],
   "sideEffects": false,
 
