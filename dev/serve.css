@@ -1,0 +1,35 @@
+html, body, #app {
+	margin: 0;
+	padding: 0;
+  height: 100%;
+	color: #C5D4E3;
+	background-color: #22272E;
+}
+#app {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  display: flex;
+	flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.row {
+	margin-bottom: 24px;
+	display: flex;
+	align-items: center;
+}
+.row:last-child {
+	margin-bottom: 0;
+}
+.item {
+	margin-left: 8px;
+	margin-right: 8px;
+}
+.vue-mzc-price {
+	color: #C5D4E3;
+}
+.vue-mzc-price--olden {
+	color: #75838F;
+}
+.vue-mzc-price--olden:after {
+	background-color: #E5534B;
+}
