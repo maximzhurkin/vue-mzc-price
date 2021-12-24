@@ -3,7 +3,7 @@ Simple Vue2 price component
 
 ![](demo.png)
 
-[Online demo](https://codesandbox.io/s/angry-morse-byc4p?file=/src/App.vue)
+[Online demo](https://codesandbox.io/s/serene-joliot-728ku?file=/src/App.vue)
 
 ## Installation
 ```sh
