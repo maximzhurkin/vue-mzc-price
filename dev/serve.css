@@ -25,11 +25,7 @@ html, body, #app {
 	margin-right: 8px;
 }
 .vue-mzc-price {
-	color: #C5D4E3;
-}
-.vue-mzc-price--olden {
-	color: #75838F;
-}
-.vue-mzc-price--olden:after {
-	background-color: #E5534B;
+  --vue-mzc-price-color: #C5D4E3;
+  --vue-mzc-price-olden-color: #75838F;
+  --vue-mzc-price-olden-line-color: #E5534B;
 }

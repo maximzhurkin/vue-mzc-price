@@ -1,6 +1,6 @@
 {
   "name": "vue-mzc-price",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Vue2 price component",
   "author": "Max Zhurkin",
   "license": "MIT",
@@ -26,8 +26,7 @@
 
   "files": [
     "dist/*",
-    "src/**/*.vue",
-    "src/**/*.css"
+    "src/**/*.vue"
   ],
   "sideEffects": false,
 

@@ -1,7 +1,6 @@
 <script>
 import Vue from 'vue';
 import VueMzcPrice from '@/vue-mzc-price.vue';
-import '../src/vue-mzc-price.css';
 import './serve.css';
 
 export default Vue.extend({
